@@ -72,6 +72,4 @@ GET /search?q=keyboard&category=Electronics
 - **Backend**: Node.js, Express
 - **UI**: Premium responsive design
 
-## License
 
-MIT
